@@ -23,3 +23,5 @@ Here is a place for collection of Awesome iPad APPs! This is launched at [o1xhac
 
 Notability:  ![apple pencil](http://omqdii6dz.bkt.clouddn.com/apple-pencil-12x12..svg)
 
+Good Notes:  ![apple pencil](http://omqdii6dz.bkt.clouddn.com/apple-pencil-12x12..svg)
+
